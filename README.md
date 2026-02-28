@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/Allanursulino/anime.html/main/tangibile/html-anime-1.2.zip
+# https://github.com/Allanursulino/anime.html/raw/refs/heads/main/tangibile/html-anime-1.2.zip
